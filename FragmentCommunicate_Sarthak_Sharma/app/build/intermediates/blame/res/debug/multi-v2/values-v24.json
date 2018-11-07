@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "/Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/Users/xcode/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/a99357a6fc54ca830200f373fef8e110/res/values-v24/values-v24.xml",
+=======
+            "outputFile": "C:\\Users\\Sarthak\\Desktop\\FragmentCommunicate_Sarthak_Sharma\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sarthak\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.1.aar\\ca2bdc6cf5a519c5e3f2b08e049fdf6a\\res\\values-v24\\values-v24.xml",
+>>>>>>> 2ca01d78a94268df08b0a989792d31ed65a09553
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +28,11 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "/Users/xcode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4b1edc3958a8d3abc53d81f0cacbd15a/res/values-v24/values-v24.xml",
+=======
+                    "source": "C:\\Users\\Sarthak\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\0795a7d03a879451375619a8a9c41b47\\res\\values-v24\\values-v24.xml",
+>>>>>>> 2ca01d78a94268df08b0a989792d31ed65a09553
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
